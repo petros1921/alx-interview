@@ -11,8 +11,4 @@ if __name__ == "__main__":
 
     rotate_2d_matrix(matrix)
     print(matrix)
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 8e7e7055ec020d838d9c198b0537764f6a4c9840
